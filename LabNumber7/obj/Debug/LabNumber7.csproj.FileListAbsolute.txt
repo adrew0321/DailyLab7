@@ -1,0 +1,7 @@
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\LabNumber7\LabNumber7\bin\Debug\LabNumber7.exe.config
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\LabNumber7\LabNumber7\bin\Debug\LabNumber7.exe
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\LabNumber7\LabNumber7\bin\Debug\LabNumber7.pdb
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\LabNumber7\LabNumber7\obj\Debug\LabNumber7.csprojAssemblyReference.cache
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\LabNumber7\LabNumber7\obj\Debug\LabNumber7.csproj.CoreCompileInputs.cache
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\LabNumber7\LabNumber7\obj\Debug\LabNumber7.exe
+C:\DotNetBootcamp\GrandCircus\C#.NETbootcamp\DailyLabs\LabNumber7\LabNumber7\obj\Debug\LabNumber7.pdb
