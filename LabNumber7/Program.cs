@@ -50,7 +50,7 @@ namespace LabNumber7
 
         public static void DateValidation(string userDate)
         {
-            if (Regex.IsMatch(userDate, @"^\d{2}.\d{2}.\d{4}"))
+            if (Regex.IsMatch(userDate, @"^\d[1-31].\d[1-12].\d{1,4}"))
             {
                 Console.WriteLine($"{userDate} is a valid Date");
             }
